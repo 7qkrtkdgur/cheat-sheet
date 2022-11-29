@@ -17,7 +17,7 @@
 ## 변경점을 묶어 관리하기
 - $ git branch – 현재 저장소의 모든 로컬 브랜치를 보여줍니다.
 - $ git branch [branch name] - 새로운 브랜치 생성.
-- $ git checkout [branch name] - 특정 브랜치로 전환하고 워킹 디렉토리 업데이트.
+- $ git checkout -c [branch name] - 특정 브랜치로 전환하고 워킹 디렉토리 업데이트.
 - $ git merge [branch name] - 현재 브랜치에 특정 브랜치의 히스토리를 병합.
 - $ git branch –d [branch name] 브랜치를 삭제.
 
